@@ -1,11 +1,11 @@
-libdvbpsi5: libdvbpsi (A library for dec/gen of MPEG TS and DVB PSI tables)
-libdvbpsi5:
-libdvbpsi5: libdvbpsi is a simple library designed for decoding and
-libdvbpsi5: generation of MPEG TS and DVB PSI tables.
-libdvbpsi5:
-libdvbpsi5:
-libdvbpsi5:
-libdvbpsi5:
-libdvbpsi5:
-libdvbpsi5:
-libdvbpsi5: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+libdvbpsi: libdvbpsi (A library for dec/gen of MPEG TS and DVB PSI tables)
+libdvbpsi:
+libdvbpsi: libdvbpsi is a simple library designed for decoding and
+libdvbpsi: generation of MPEG TS and DVB PSI tables.
+libdvbpsi:
+libdvbpsi:
+libdvbpsi:
+libdvbpsi:
+libdvbpsi:
+libdvbpsi:
+libdvbpsi: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
