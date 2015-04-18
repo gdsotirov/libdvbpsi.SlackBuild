@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 # 
-# $Id: libdvbpsi.SlackBuild,v 1.5 2015/04/18 19:54:04 gsotirov Exp $
+# $Id: libdvbpsi.SlackBuild,v 1.6 2015/04/18 20:04:53 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=libdvbpsi
-VERSION=1.1.2
+VERSION=1.2.0
 BUILD=${BUILD:-1}
 ARCH=${ARCH:-i486}
 
